@@ -73,7 +73,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   KC_ESC,  XXXXXXX, XXXXXXX, KC_LBRC, KC_RBRC, KC_PPLS,     XXXXXXX, XXXXXXX, KC_UP,   XXXXXXX,  XXXXXXX, KC_DEL,  \
   _______, XXXXXXX, XXXXXXX, KC_LPRN, KC_RPRN, KC_PEQL,     XXXXXXX, KC_LEFT, KC_DOWN, KC_RIGHT, XXXXXXX, XXXXXXX, \
   _______, XXXXXXX, XXXXXXX, KC_LCBR, KC_RCBR, KC_PMNS,     KC_UNDS, XXXXXXX, XXXXXXX, XXXXXXX,  XXXXXXX, _______, \
-                    _______, KC_LALT, _______, KC_BRIU,     KC_BRID, _______, _______, _______  \
+                    _______, KC_LALT, _______, KC_BRID,     KC_BRIU, _______, _______, _______  \
 ),
 
 /* Adjust (Lower + Raise)
